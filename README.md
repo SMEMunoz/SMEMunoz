@@ -7,7 +7,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Frameworks y lenguajes(Angular,Java, typescript, etc)**
 
-- 👨‍💻 Todos mis proyectos estan disponibles en [https://github.com/SMEMunoz/](https://github.com/SMEMunoz/)
+- 👨‍💻 Todos mis proyectos estan disponibles en [https://github.com/SMEMunoz/](https://github.com/SMEMunoz?tab=repositories)
 
 - 💬 Preguntame sobre **React.js, Javascript, Express**
 
